@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  color: rgb(74, 14, 131);
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 4rem;
+  font-size: larger;
+}
+#page-1 {
+  background: url(/wangjing-soho-in-beijing--china-642819234-a9c7caa1eec04759b6270330be2ca297.jpg)
+    center center/cover no-repeat;
+}
+#page-2 {
+  background: url(/eyJpZGVudGlmaWVyIjo1Mjk1MTIsInR5cGUiOiJhc3NldCJ9.webp)
+    no-repeat center center/cover;
+}
+#page-3 {
+  background: url(/idyllic-landscape-bavarian-alps-berchtesgaden-germany-beautiful-mountain-village-watzmann-massif-background-45053177.webp)
+    no-repeat center center/cover;
+}
+#page-4 {
+  background: url(/GrandCanyon_DonEim03-9ed8c918096f46ab91a58fa983f9e713.jpg)
+    no-repeat center center/cover;
+}
+#page-5 {
+  background: url(/licensed-image.jfif) no-repeat center center/cover;
+}
+.ophel {
+  padding: 0 4rem;
+  background-color: rgb(223, 253, 255);
+}
+.page a {
+  padding: 8px 20px;
+  background-color: blanchedalmond;
+  border-radius: 5px;
+}
